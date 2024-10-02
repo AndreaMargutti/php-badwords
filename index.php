@@ -12,12 +12,12 @@
         <h1>Inserisci le il testo e la parola da censurare</h1>
         <form action="./resultBadWords.php">
             <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-            </div>
-            <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="userWord" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="userWord" name="userWord" placeholder="stupido">
             </div>
         </form>
     </div>
