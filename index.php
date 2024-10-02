@@ -17,7 +17,7 @@
             </div>
             <div class="mb-3">
                 <label for="userWord" class="form-label">User Word</label>
-                <input type="email" class="form-control" id="userWord" name="userWord" placeholder="stupido">
+                <input type="text" class="form-control" id="userWord" name="userWord" placeholder="stupido">
             </div>
             <button type="submit" class="btn btn-primary btn-xl">Send</button>
             <button type="reset" class="btn btn-danger btn-xl">Reset</button>
