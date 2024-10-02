@@ -10,7 +10,7 @@
 <body>
     <div class="container text-center">
         <h1>Inserisci le il testo e la parola da censurare</h1>
-        <form action="./resultBadWords.php">
+        <form action="resultBadWords.php">
             <div class="mb-3">
                 <label for="userText" class="form-label">User Text</label>
                 <textarea class="form-control" id="userText" name="userText" rows="3" placeholder="Inserisci il testo"></textarea>
