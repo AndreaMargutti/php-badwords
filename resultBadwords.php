@@ -5,9 +5,6 @@
     //var_dump($userText);
     $userWord = $_GET["userWord"];
     //var_dump($userWord);
-
-    //stampo in pagina il test dell'utente
-    //echo(str_ireplace("$userWord", "***", $userWord));
 ?>
 
 <!DOCTYPE html>
